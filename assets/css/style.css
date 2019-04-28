@@ -1,0 +1,24 @@
+.jumbotron {
+	background: url("../images/2016-10-26-maglev.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+		color: black;
+}
+
+body {
+	background: url("../images/2016-10-26-maglev.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    color: white;
+    font-weight: bolder;
+}
+
+.panel > .panel-heading {
+	background-image: none;
+    background-color: #dddddd;
+    color: black;
+}
